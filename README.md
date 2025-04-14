@@ -9,4 +9,4 @@ Model code added - 3/30/2025
 Data preprocessing code added - 4/14/2025
 Training script to be added
 
-Managed by Meilun Zhou
+Managed by [Meilun Zhou](https://www.linkedin.com/in/meilun-zhou/) through [GatorSense](https://faculty.eng.ufl.edu/machine-learning/)
