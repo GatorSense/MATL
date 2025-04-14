@@ -1,7 +1,7 @@
 # MATL
 Multi-Annotation Triplet Loss Repository for AWIR Dataset
 
-This paper has been accepted to IGARSS 2025 [Conference Homepage](https://www.2025.ieeeigarss.org/index.php)
+This paper has been accepted to [IGARSS 2025](https://www.2025.ieeeigarss.org/index.php)
 
 [Link to ArXiv Paper](https://arxiv.org/abs/2504.08054)
 
