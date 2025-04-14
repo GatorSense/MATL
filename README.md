@@ -9,4 +9,4 @@ This [paper](https://arxiv.org/abs/2504.08054) has been accepted to [IGARSS 2025
 * Data preprocessing code added - 4/14/2025
 * Training script to be added
 
-Managed by [Meilun Zhou](https://www.linkedin.com/in/meilun-zhou/) through [GatorSense](https://faculty.eng.ufl.edu/machine-learning/)
+Managed by [Meilun Zhou](https://www.linkedin.com/in/meilun-zhou/) through [GatorSense](https://faculty.eng.ufl.edu/machine-learning/).
